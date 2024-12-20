@@ -73,6 +73,7 @@
 - [Strimzi Kafka CLI](https://github.com/systemcraftsman/strimzi-kafka-cli) - A CLI for Strimzi Kafka Operator.
 - [Kafka Cluster Kraft Mode - DockerCompose](https://github.com/minhhungit/kafka-kraft-cluster-docker-compose) - Workable kafka cluster with kraft mode using docker-compose.
 - [Decaton](https://github.com/line/decaton) - High throughput asynchronous task processing framework
+- [Ballerina Kafka Connector](https://github.com/ballerina-platform/module-ballerinax-kafka) - Kafka client library for Ballerina.
 
 ### Kafka UI
 
